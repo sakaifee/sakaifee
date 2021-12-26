@@ -1,11 +1,10 @@
 
-### Hi there, I'm Kaifee 👋 
+### Hi there, My name is Kaifee 👋 
 
 
 ## I'm a Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
 - ⚡ Fun fact: I love to have a cup of coffee in my hand at all times
 
 ### Connect with me:
@@ -15,8 +14,6 @@
 [<img align="left" alt="leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][Leetcode]
 
 <br />
-
-
 
 ### Languages and Tools:
 

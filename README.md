@@ -4,8 +4,10 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to have a cup of coffee in my hand at all times
+- 🔭 &nbsp;I’m currently working on something cool 🤣
+- 👨‍💻 &nbsp;I’m currently learning Backend Development
+- ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
+
 
 ### Connect with me:
 

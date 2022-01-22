@@ -56,7 +56,7 @@
 
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 
-<img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />
+<img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
 <br />
 <br />

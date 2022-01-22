@@ -16,6 +16,8 @@
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][Leetcode]
+
+[<img align="left" alt="leetcode | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][Leetcode]
 [<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][GeeksforGeeks]
 
 <br />

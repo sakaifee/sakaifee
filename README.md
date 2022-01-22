@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][Leetcode]
 [<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][GeeksforGeeks]
@@ -34,27 +34,22 @@
 
 <img align="left" alt="ReactJs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
-
 <img align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 
 <img align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
-
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-
 <img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
 
-
+<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 
 <img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-
 <img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
 <br />

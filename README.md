@@ -5,7 +5,7 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool 🤣
-- 👯 &nbsp;I’m looking to collaborate with other Developer
+- 👯 &nbsp;I’m looking to collaborate with other Developers
 - 🔭 &nbsp;I’m currently learning Backend Development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
 

@@ -21,7 +21,7 @@
 
 [<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" />][GeeksforGeeks]
 
-[<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][GeeksforGeeks]
+[<img align="left" alt="github | GeeksforGeeks" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
 
 <br />
 

@@ -4,14 +4,17 @@
 
 ## I'm a Full Stack Developer!!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakaifee&label=Profile%20views&color=0e75b6&style=flat" alt="sakaifee" /> </p>
 
 - 🔭 &nbsp;I’m currently working on something cool 🤣
+- 👯 &nbsp;I’m looking to collaborate with other Developer
 - 👨‍💻 &nbsp;I’m currently learning Backend Development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
+- 📄 &nbsp;Know about my experiences [https://www.linkedin.com/in/shadanalamkaifee/](https://www.linkedin.com/in/shadanalamkaifee/)
 
 
 ### Connect with me:
+
+<a href="https://www.linkedin.com/in/shadanalamkaifee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaifee_linkedin" height="30" width="40" /></a>
 
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

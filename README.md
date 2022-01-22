@@ -18,7 +18,8 @@
 [<img align="left" alt="leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][Leetcode]
 
 [<img align="left" alt="leetcode | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][Leetcode]
-[<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][GeeksforGeeks]
+
+[<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" />][GeeksforGeeks]
 
 <br />
 

@@ -1,7 +1,6 @@
 
 ### Hi there! My name is Kaifee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
 ## I'm a Full Stack Developer!!
 
 
@@ -21,7 +20,7 @@
 
 [<img align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" />][GeeksforGeeks]
 
-[<img align="left" alt="github | GeeksforGeeks" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
+[<img align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
 
 <br />
 

@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img title="Twitter" align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 

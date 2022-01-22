@@ -4,6 +4,8 @@
 
 ## I'm a Full Stack Developer!!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakaifee&label=Profile%20views&color=0e75b6&style=flat" alt="sakaifee" /> </p>
+
 - 🔭 &nbsp;I’m currently working on something cool 🤣
 - 👨‍💻 &nbsp;I’m currently learning Backend Development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times

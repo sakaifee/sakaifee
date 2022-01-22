@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img title="HTML" align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 
 <img align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 

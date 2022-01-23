@@ -5,8 +5,8 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool 🤣
-- 👯 &nbsp;I’m looking to collaborate with other Developers
-- 🔭 &nbsp;I’m currently learning Backend Development
+- 👯 &nbsp;I’m looking to collaborate with other developers
+- 🔭 &nbsp;I’m currently learning backend development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
 
 
@@ -61,7 +61,7 @@
 <br />
 
 [twitter]: https://twitter.com/Kaifee_
-[linkedin]: https://www.linkedin.com/in/shadanalamkaifee/
+[linkedin]: https://www.linkedin.com/in/shadanalamkaifee
 [Leetcode]: https://leetcode.com/kaifee/
 [GeeksforGeeks]: https://auth.geeksforgeeks.org/user/kaifee
 [Github]:https://github.com/sakaifee

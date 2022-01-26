@@ -23,7 +23,7 @@
 
 <br />
 
-### 🔧 Languages and Tools:
+### Languages and Tools:
 
 <img title="HTML" align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 

@@ -31,7 +31,9 @@
 
 <img title="Sass" align="left" alt="Sass" width="26px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 
-<img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+<!-- <img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> -->
+
+<img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 
 <!-- <img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> -->
 

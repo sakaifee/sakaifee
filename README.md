@@ -39,6 +39,9 @@
 
 <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 
+<img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png" />
+
+
 <img title="Git" align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 <img title="AWS" align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />

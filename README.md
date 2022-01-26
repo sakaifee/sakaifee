@@ -1,7 +1,7 @@
 
 ### Hi there! My name is Kaifee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Software Engineer!!
+## I'm a Software Engineer - Frontend!!
 
 
 - 👨‍💻 &nbsp;I’m currently working on Frontend Development 🤣
@@ -31,21 +31,13 @@
 
 <img title="Sass" align="left" alt="Sass" width="26px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 
-<!-- <img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /> -->
-
-<img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
-
-<!-- <img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> -->
+<img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 
 <img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" /> 
 
 <img title="ReactJs" align="left" alt="ReactJs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
 <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-
-<!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /> -->
-
-<!-- <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> -->
 
 <img title="Git" align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
@@ -55,9 +47,9 @@
 
 <img title="Docker" align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
-<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+
+<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 

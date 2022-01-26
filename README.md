@@ -29,11 +29,12 @@
 <img title="HTML" align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 
 <img title="CSS" align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
+
 <img title="Sass" align="left" alt="Sass" width="26px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 
 <img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 
-<img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
 
 <img title="ReactJs" align="left" alt="ReactJs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 

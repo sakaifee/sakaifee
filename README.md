@@ -1,12 +1,11 @@
 
 ### Hi there! My name is Kaifee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Full Stack Developer!!
+## I'm a Software Engineer!!
 
 
-- 👨‍💻 &nbsp;I’m currently working on something cool 🤣
+- 👨‍💻 &nbsp;I’m currently working on Frontend Development 🤣
 - 👯 &nbsp;I’m looking to collaborate with other developers
-- 🔭 &nbsp;I’m currently learning backend development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
 
 
@@ -29,6 +28,7 @@
 <img title="HTML" align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 
 <img title="CSS" align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
+
 <img title="Sass" align="left" alt="Sass" width="26px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 
 <img title="Bootstrap" align="left" alt="Bootstrap" width="26px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
@@ -39,9 +39,9 @@
 
 <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 
-<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+<!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /> -->
 
-<img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<!-- <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /> -->
 
 <img title="Git" align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 

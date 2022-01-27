@@ -5,8 +5,6 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on Frontend Development! 
-- 👯 &nbsp;I’m looking to collaborate with other developers
-- 🔭 &nbsp;I’m currently learning something cool 🤣
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
 
 

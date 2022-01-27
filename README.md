@@ -40,6 +40,7 @@
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
 <br />
+<br />
 
 ### Github Stats:
 

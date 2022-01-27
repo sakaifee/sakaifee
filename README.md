@@ -40,11 +40,7 @@
 
 <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 
-<!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /> -->
-
-<!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" height="26px"  src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png" /> -->
-
-<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" />
+<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 
 <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 

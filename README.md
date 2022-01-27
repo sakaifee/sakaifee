@@ -55,13 +55,14 @@
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
 <br />
+<br />
 
+### Github Stats: 
 
 <a href="https://github.com/sakaifee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kaifee's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kaifee's Github Stats" />
 </a>
 
-<br />
 <br />
 
 [twitter]: https://twitter.com/Kaifee_

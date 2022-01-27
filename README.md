@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img title="Twitter" align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-
 [<img title="Linkedin" align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img title="Github" align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
 [<img title="Leetcode" align="left" alt="leetcode | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][Leetcode]
@@ -40,7 +39,6 @@
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
-<br />
 <br />
 
 ### Github Stats:

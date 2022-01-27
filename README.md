@@ -5,8 +5,8 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool 🤣
-- 👯 &nbsp;I’m looking to collaborate with other Developers
-- 🔭 &nbsp;I’m currently learning Backend Development
+- 👯 &nbsp;I’m looking to collaborate with other developers
+- 🔭 &nbsp;I’m currently learning backend development
 - ⚡ &nbsp;Fun fact: I love to have a cup of coffee in my hand at all times
 
 
@@ -16,11 +16,11 @@
 
 [<img title="Linkedin" align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
+[<img title="Github" align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
+
 [<img title="Leetcode" align="left" alt="leetcode | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][Leetcode]
 
 [<img title="GeeksforGeeks" align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" />][GeeksforGeeks]
-
-[<img title="Github" align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
 
 <br />
 
@@ -52,9 +52,9 @@
 
 <img title="Docker" align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
-<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+
+<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 

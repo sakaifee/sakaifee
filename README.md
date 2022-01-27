@@ -42,7 +42,9 @@
 
 <!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /> -->
 
-<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" height="26px"  src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png" />
+<!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" height="26px"  src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png" /> -->
+
+<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://miro.medium.com/max/700/0*YQLMarBU6zWxy98h.png" />
 
 <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 

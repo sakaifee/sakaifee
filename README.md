@@ -44,7 +44,7 @@
 
 <!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" height="26px"  src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png" /> -->
 
-<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+<img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://png2.cleanpng.com/sh/08b5a1e6a04b7f33ac49848461f4ac65/L0KzQYm3VsE1N5ZBkZH0aYP2gLBuTf5wbJYyguU2ZYjzgrb6k71re15veehqc3P1ecH7TgNwdKZ5gdH3LYP3cbTyTgdmal5mRadrMkLlSbW8V8Q0PpU3RqcBM0i5QYa7UcUzQWE1SqYAM0S6RnB3jvc=/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476.png" />
 
 <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 

@@ -1,7 +1,7 @@
 
-### Hi there! My name is Kaifee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey! My name is Kaifee, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Software Engineer!!
+## I'm a Full Stack Developer!!
 
 
 - 👨‍💻 &nbsp;I’m currently working on Frontend Development! 
@@ -33,6 +33,8 @@
 <img title="ReactJs" align="left" alt="ReactJs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
 <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+
+<img title="ExpressJs" align="left" alt="NodeJs" width="26px" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fexpressjs%2Fexpressjs-icon.svg&width=150&height=150" />
 
 <img title="Git" align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 

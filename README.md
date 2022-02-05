@@ -1,7 +1,7 @@
 
 ### Hey! My name is Kaifee, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Software Engineer!!
+## I'm a Full Stack Developer!!
 
 
 - 👨‍💻 &nbsp;I’m currently working on Frontend Development! 

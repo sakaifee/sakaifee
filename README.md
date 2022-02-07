@@ -12,7 +12,7 @@
 
 [<img title="Twitter" align="left" alt="twitter | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img title="Linkedin" align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img title="Github" align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
+<!-- [<img title="Github" align="left" alt="github | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github] -->
 [<img title="Leetcode" align="left" alt="leetcode | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][Leetcode]
 [<img title="GeeksforGeeks" align="left" alt="geeksforgeeks | GeeksforGeeks" width="22px" src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" />][GeeksforGeeks]
 

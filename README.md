@@ -48,7 +48,7 @@
 
 <img title="Docker" align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
-<img title="Docker" align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
+<img title="Docker" align="left" alt="Docker" width="26px" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" />
 
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 

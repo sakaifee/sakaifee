@@ -54,6 +54,8 @@
 
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
+<img title="Webpack" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" />
+
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 
 <img title="Linux" align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />

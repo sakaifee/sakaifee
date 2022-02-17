@@ -32,7 +32,11 @@
 
 <img title="ReactJs" align="left" alt="ReactJs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
-<img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img title="NPM" align="left" alt="Docker" width="26px" src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" />
+
+<img title="Webpack" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" />
+
+<!-- <img title="NodeJs" align="left" alt="NodeJs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> -->
 
 <!-- <img title="ExpressJs" align="left" alt="ExpressJs" width="26px" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fexpressjs%2Fexpressjs-icon.svg&width=155&height=150" /> -->
 
@@ -48,13 +52,7 @@
 
 <img title="Docker" align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
-<!-- <img title="Docker" align="left" alt="Docker" width="26px" src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" /> -->
-
-<img title="NPM" align="left" alt="Docker" width="26px" src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" />
-
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
-<img title="Webpack" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" />
 
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 

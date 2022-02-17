@@ -44,9 +44,11 @@
 
 <img title="Github" align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 
-<img title="Github" align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/bd/371743/svg/371743.svg" />
+<img title="DevTools" align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/bd/371743/svg/371743.svg" />
 
 <img title="Docker" align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+
+<img title="Docker" align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
 
 <img title="Postman" align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 

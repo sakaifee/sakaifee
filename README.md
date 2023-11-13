@@ -1,3 +1,5 @@
+![logo](https://github.com/sakaifee/sakaifee/blob/main/Github.png)
+
 <h1 align="center">Hey! 👋 My name is Kaifee, nice to meet you!</h1>
 <h3 align="center">I'm a Data Analyst / Scientist</h3>
 

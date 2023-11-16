@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakaifee&label=Profile%20views&color=0e75b6&style=flat" alt="sakaifee" /> </p>
 
-- 🔭 I’m currently working on **Data Science and Analytics**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **shadanalamkaifee@gmail.com**
 

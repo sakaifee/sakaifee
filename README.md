@@ -26,7 +26,7 @@
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> <a href="https://numpy.org/" target="_blank" rel="">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=compact" alt="sakaifee" /></p>
 

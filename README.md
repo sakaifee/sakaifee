@@ -30,7 +30,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://camo.githubusercontent.com/f2f65096ef50ace6b824096aaec367153d9859e4ac7d6ac467d572f097954ac7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d7973716c2e737667" alt="mysql" title="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" alt="linux" title="Linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 

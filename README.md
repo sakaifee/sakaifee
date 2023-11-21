@@ -30,7 +30,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" title="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 

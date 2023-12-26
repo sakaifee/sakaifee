@@ -40,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" title="SAP" width="40" height="40"/> 
  </p>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=compact" alt="sakaifee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>

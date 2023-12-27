@@ -33,7 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="ms excel" title="MS Excel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" title="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="Docker" width="40" height="40"/>
+<!--   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" title="Docker" width="40" height="40"/> -->
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter notebook" title="Jupyter Notebook" width="40" height="40"/> 

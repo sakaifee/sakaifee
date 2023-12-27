@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakaifee&label=Profile%20views&color=0e75b6&style=flat" alt="sakaifee" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Data Analytics** and **Machine Learning**
 
 - 💬 Ask me about **Data Analysis**
 

@@ -42,7 +42,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=pie" alt="sakaifee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=pie" alt="sakaifee" /></p>
      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>
 

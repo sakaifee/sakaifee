@@ -41,12 +41,10 @@
  </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=compact" alt="sakaifee" /></p>-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakaifee&layout=pie)](https://github.com/sakaifee/github-readme-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=compact" alt="sakaifee" /></p>
      
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>-->
-[![sakaifee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakaifee)](https://github.com/sakaifee/github-readme-stats)
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakaifee&" alt="sakaifee" /></p>-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakaifee)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakaifee&" alt="sakaifee" /></p>
+

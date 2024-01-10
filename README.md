@@ -46,5 +46,5 @@
      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakaifee)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sakaifee)](https://git.io/streak-stats)
 

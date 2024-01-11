@@ -48,6 +48,6 @@
 
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakaifee" alt="GitHub Streak" /></a>-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sakaifee)](https://git.io/streak-stats)-->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakaifee&card_width=470" alt="GitHub Streak" /></a>
+<p>&nbsp;
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakaifee&card_width=470" alt="GitHub Streak" /></a></p>
 

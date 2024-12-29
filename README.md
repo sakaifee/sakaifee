@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shadanalamkaifee@gmail.com**
 
-- ⚡ Fun fact: **I love to have a cup of coffee in my hand at all times**
+- ⚡ Fun fact: **I love to have a cup of tea in my hand at all times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

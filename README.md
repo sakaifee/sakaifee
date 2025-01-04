@@ -1,4 +1,4 @@
-![logo](https://github.com/sakaifee/sakaifee/blob/main/Kaifee_Github_Banner-1.png)
+![Kaifee_Github_Banner-1](https://github.com/user-attachments/assets/1a1d40e4-3ca2-40a1-ab7b-4466e4241c32)
 
 <h1 align="center">Hey! 👋 My name is Kaifee, nice to meet you!</h1>
 

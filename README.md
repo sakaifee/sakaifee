@@ -1,4 +1,4 @@
-![Kaifee_Github_Banner-1](https://github.com/user-attachments/assets/1a1d40e4-3ca2-40a1-ab7b-4466e4241c32)
+![Screenshot 2025-01-10 203246](https://github.com/user-attachments/assets/99f8417f-5db5-49f0-b536-99f75e88f28a)
 
 <h1 align="center">Hey! 👋 My name is Kaifee, nice to meet you!</h1>
 

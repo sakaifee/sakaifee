@@ -43,6 +43,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=pie" alt="sakaifee" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakaifee&show_icons=true&locale=en" alt="sakaifee" /></p>
-&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakaifee&card_width=470" alt="GitHub Streak" /></a>
+<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakaifee&card_width=470" alt="GitHub Streak" /></a></p>
 
 

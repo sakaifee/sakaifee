@@ -9,10 +9,10 @@ Software Engineer with over 4 years of experience in SAP, data analytics, and pr
 <br />
 
 ### Professional Highlights 🌟
-- **Software Engineer - SAP & AI Product Classification** - ARCHLYNK, Bangalore, India (Jan 2024 - Present)
-- **Jr. Software Engineer - SAP Data & Analytics** - AVYAY SOLUTIONS, Bangalore, India (June 2022 - Dec 2023)
-- **Business Analyst** - KRYPT, Bangalore, India  (Oct 2020 - June 2022)
-- **Software Developer (Internship)** - EOX VANTAGE, Bangalore, India (Dec2019 - June 2020)
+- **Software Engineer - SAP & AI Product Classification** - ARCHLYNK, Bangalore _(Jan 2024 - Present)_
+- **Jr. Software Engineer - SAP Data & Analytics** - AVYAY SOLUTIONS, Bangalore _(June 2022 - Dec 2023)_
+- **Business Analyst** - KRYPT, Bangalore _(Oct 2020 - June 2022)_
+- **Software Developer (Internship)** - EOX VANTAGE, Bangalore _(Dec2019 - June 2020)_
 
 
 <h3 align="left">Connect with me:</h3>

@@ -2,17 +2,18 @@
 
 <h1 align="center">Hey! 👋 My name is Kaifee, nice to meet you!</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+&nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+### About Me 🌐
+Software Engineer with over 4 years of experience in SAP, data analytics, and product classification with a fundamental understanding of machine learning. Skilled in extracting actionable insights from complex datasets, leveraging statistical analysis and data visualization, building scalable models, and working closely with stakeholders to drive informed decision-making
+<br />
 
+### Professional Highlights 🌟
+- **Software Engineer - SAP & AI Product Classification** - ARCHLYNK, Bangalore, India (Jan 2024 - Present)
+- **Jr. Software Engineer - SAP Data & Analytics** - AVYAY SOLUTIONS, Bangalore, India (June 2022 - Dec 2023)
+- **Business Analyst** - KRYPT, Bangalore, India  (Oct 2020 - June 2022)
+- **Software Developer (Internship)** - EOX VANTAGE, Bangalore, India (Dec2019 - June 2020)
 
-- 🔭 I’m currently working on **Data Science** and **Analytics**
-
-- 💬 Ask me about **Data Analytics**
-
-- 📫 How to reach me **shadanalamkaifee@gmail.com**
-
-- ⚡ Fun fact: **I love to have a cup of tea in my hand at all times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

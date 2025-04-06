@@ -11,7 +11,7 @@ Software Engineer with 4+ years of experience in SAP, data analytics, and produc
 - **Software Engineer** - ArchLynk, Bangalore (2024 - Present)
 - **Jr. Software Engineer** - Avyay Solutions, Bangalore (2022 - 2023)
 - **Business Analyst** - Krypt, Bangalore (2020 - 2022)
-- **Software Developer Intern** - Eox Vantage, Bangalore (2019 - 2020)
+- **Software Developer Intern** - EOX Vantage, Bangalore (2019 - 2020)
 
 ### Languages and Tools 🛠️
 - **Languages:** Python, SQL

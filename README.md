@@ -23,7 +23,7 @@ Software Engineer with 4+ years of experience in SAP, data analytics, and produc
 ### Education 🎓
 - **Bachelor of Technology in Computer Science and Engineering**, PES University, Bangalore (2016 - 2020)
 
-### Connect with me 🤝
+### Reach Out 🤝
 <p align="left">
 <a href="https://linkedin.com/in/shadanalamkaifee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadanalamkaifee" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kaifee/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaifee" height="30" width="40" /></a>

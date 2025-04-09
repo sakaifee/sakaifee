@@ -5,7 +5,7 @@
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### About Me 🌐
-Software Engineer with 4+ years of experience in SAP, data analytics, and product classification, skilled in extracting insights, statistical analysis, data visualization, and building scalable models for decision-making.
+Software Engineer with over 4 years of experience in SAP, data analytics, and product classification with a fundamental understanding of machine learning. Skilled in extracting actionable insights from complex datasets, leveraging statistical analysis and data visualization, building scalable models, and working closely with stakeholders to drive informed decision-making.
 
 ### Professional Highlights 🌟
 - **Software Engineer** - ArchLynk, Bangalore (2024 - Present)

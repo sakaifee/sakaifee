@@ -14,7 +14,7 @@ Software Engineer with over 4 years of experience in SAP, data analytics, and pr
 - **Software Developer Intern** - EOX Vantage, Bangalore (2019 - 2020)
 
 ### Languages and Tools 🛠️
-- **Languages:** Python, SQL
+- **Programming:** Python, SQL
 - **Machine Learning:** Random Forest, Logistic Regression, Decision Tree, SVM, Scikit-Learn, Numpy, Pandas
 - **Statistical Analysis:** A/B Testing
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI

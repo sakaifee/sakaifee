@@ -1,7 +1,6 @@
-![Screenshot 2025-05-09 212922](https://github.com/user-attachments/assets/3c1fd839-b056-47b1-bb2e-d8d91a9f21f1)
+![Screenshot 2025-05-09 230102](https://github.com/user-attachments/assets/fd51008d-ce3c-4643-bdb7-38636fe1697d)
 
 <!-- <h1 align="center">Hey! 👋 My name is Kaifee</h1>-->
-
 
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 

@@ -22,7 +22,7 @@ Software Engineer with 4+ years of experience in data analytics and product clas
 - **Cloud Storage System:** GCP
 
 ### Education 🎓
-- **Bachelor of Technology in Computer Science and Engineering**, PES University, Bangalore (2016 - 2020)
+- **Bachelor of Technology** in **Computer Science and Engineering**, **PES University**, Bangalore (2016 - 2020)
 
 ### Reach Out 🤝
 <p align="left">

@@ -1,24 +1,25 @@
-![Github_Banner](https://github.com/user-attachments/assets/6b238aba-e528-45d2-8e1f-5fc58b9c24b2)
+![Screenshot 2025-05-09 212922](https://github.com/user-attachments/assets/3c1fd839-b056-47b1-bb2e-d8d91a9f21f1)
 
 <h1 align="center">Hey! 👋 My name is Kaifee</h1>
+
 
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### About Me 🌐
-Software Engineer with over 4 years of experience in SAP, data analytics, and product classification with a fundamental understanding of machine learning. Skilled in extracting actionable insights from complex datasets, leveraging statistical analysis and data visualization, building scalable models, and working closely with stakeholders to drive informed decision-making.
+Software Engineer with 4+ years of experience in data analytics and product classification, a strong foundation in machine learning, scalable model development, data visualization, and a proven ability to collaborate with stakeholders to drive decisions.
 
 ### Professional Highlights 🌟
 - **Software Engineer** - ArchLynk, Bangalore (2024 - Present)
-- **Jr. Software Engineer** - Avyay Solutions, Bangalore (2022 - 2023)
-- **Business Analyst** - Krypt, Bangalore (2020 - 2022)
-- **Software Developer Intern** - EOX Vantage, Bangalore (2019 - 2020)
+- **Jr. Software Engineer** - ArchLynk, Bangalore (2022 - 2023)
+- **Business Analyst** - ArchLynk, Bangalore (2020 - 2022)
+- **Software Engineering Intern** - EOX Vantage, Bangalore (2019 - 2020)
 
 ### Languages and Tools 🛠️
 - **Programming:** Python, SQL
 - **Machine Learning:** Random Forest, Logistic Regression, Decision Tree, SVM, Scikit-Learn, Numpy, Pandas
-- **Statistical Analysis:** A/B Testing
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
-- **Version Control & Tools:** Git, GitHub, Microsoft Excel
+- **Statistical Testing** & **Data Visualization:** A/B Testing, Matplotlib, Seaborn, Plotly, PowerBI
+- **Version Control** & **Tools:** Git, GitHub, Microsoft Excel, Postman
+- **Cloud Storage System:** GCP
 
 ### Education 🎓
 - **Bachelor of Technology in Computer Science and Engineering**, PES University, Bangalore (2016 - 2020)

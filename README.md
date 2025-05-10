@@ -1,4 +1,4 @@
-![Screenshot 2025-05-09 230102](https://github.com/user-attachments/assets/fd51008d-ce3c-4643-bdb7-38636fe1697d)
+![Github_Banner](https://github.com/user-attachments/assets/908d8488-216f-4bf1-8e3c-4dfcc9f739c2)
 
 <!-- <h1 align="center">Hey! 👋 My name is Kaifee</h1>-->
 
@@ -8,8 +8,8 @@
 Software Engineer with 4+ years of experience in data analytics and product classification, a strong foundation in machine learning, scalable model development, data visualization, and a proven ability to collaborate with stakeholders to drive decisions.
 
 ### Professional Highlights 🌟
-- **Software Engineer, AI/ML** - ArchLynk, Bangalore (2024 - Present)
-- **Jr. Software Engineer, AI/ML** - ArchLynk, Bangalore (2022 - 2023)
+- **Software Engineer, Data Science** - ArchLynk, Bangalore (2024 - Present)
+- **Jr. Software Engineer, Data Science** - ArchLynk, Bangalore (2022 - 2023)
 - **Business Analyst** - ArchLynk, Bangalore (2020 - 2022)
 - **Software Engineering Intern** - EOX Vantage, Bangalore (2019 - 2020)
 

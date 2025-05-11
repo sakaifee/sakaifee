@@ -1,11 +1,11 @@
-![Github_Banner](https://github.com/user-attachments/assets/908d8488-216f-4bf1-8e3c-4dfcc9f739c2)
+![Github_Banner](https://github.com/user-attachments/assets/399aa0d8-f2cd-4e6b-aa43-12d69f14c90e)
 
 <!-- <h1 align="center">Hey! 👋 My name is Kaifee</h1>-->
 
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### About Me 🌐
-Software Engineer with 4+ years of experience in data analytics and product classification, a strong foundation in machine learning, scalable model development, data visualization, and a proven ability to collaborate with stakeholders to drive decisions.
+Data Scientist with 4+ years of experience in data analytics and product classification, a strong foundation in machine learning, scalable model development, data visualization, and a proven ability to collaborate with stakeholders to drive decisions.
 
 ### Professional Highlights 🌟
 - **Software Engineer, Data Science** - ArchLynk, Bangalore (2024 - Present)

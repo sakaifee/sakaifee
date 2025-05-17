@@ -8,9 +8,9 @@
 Data Scientist with over 4 years of experience in data analytics and product classification, with a strong foundation in machine learning, scalable model development, and data visualization. Proven ability to collaborate with stakeholders to drive data-informed decisions.
 
 ### Professional Highlights 🌟
-- **Senior Software Engineer, AI/ML** - ArchLynk, Bangalore (2025 - Present)
-- **Software Engineer, AI/ML** - ArchLynk, Bangalore (2024 - 2025)
-- **Junior Software Engineer, AI/ML** - ArchLynk, Bangalore (2022 - 2023)
+- **Senior Software Engineer, Data Science** - ArchLynk, Bangalore (2025 - Present)
+- **Software Engineer, Data Science** - ArchLynk, Bangalore (2024 - 2025)
+- **Junior Software Engineer, Data Analytics** - ArchLynk, Bangalore (2022 - 2023)
 - **Business Analyst** - ArchLynk, Bangalore (2020 - 2022)
 - **Software Engineering Intern** - EOX Vantage, Bangalore (2019 - 2020)
 

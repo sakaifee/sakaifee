@@ -5,7 +5,7 @@
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### About Me 🌐
-Data Scientist with over 4 years of experience in data analytics and product classification, with a strong foundation in machine learning, scalable model development, and data visualization. Proven ability to collaborate with stakeholders to drive data-informed decisions.
+Data Scientist with 4+ years of experience in data analytics and product classification, with a strong foundation in machine learning, scalable model development, and data visualization. Proven ability to collaborate with stakeholders to drive data-informed decisions.
 
 ### Professional Highlights 🌟
 - **Senior Software Engineer, Data Science** - ArchLynk, Bangalore (2025 - Present)

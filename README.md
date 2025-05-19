@@ -1,4 +1,4 @@
-![Github_Banner](https://github.com/user-attachments/assets/399aa0d8-f2cd-4e6b-aa43-12d69f14c90e)
+![Github_Banner](https://github.com/user-attachments/assets/398a8c4e-fb13-48df-9bae-4ebe9f56e84b)
 
 <!-- <h1 align="center">Hey! 👋 My name is Kaifee</h1>-->
 

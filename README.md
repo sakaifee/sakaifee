@@ -4,6 +4,8 @@
 
 &nbsp; &nbsp;<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <br />
+<br />
+<br />
 
 ### About Me 🌐
 Data Scientist with over 4 years of experience in data analytics and product classification, with a strong foundation in machine learning, scalable model development, and data visualization. Proven ability to collaborate with stakeholders to drive data-informed decisions.

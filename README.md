@@ -11,7 +11,7 @@ Data Science professional with 4+ years of experience in data analytics, machine
 ### Professional Highlights 🌟
 - **Senior Software Engineer, Data Science** - ArchLynk, Bengaluru (2025 - Present)
 - **Software Engineer, Data Science** - ArchLynk, Bengaluru (2024 - 2025)
-- **Junior Software Engineer, Data Analytics** - ArchLynk, Bengaluru (2022 - 2023)
+- **Junior Software Engineer, Data Science** - ArchLynk, Bengaluru (2022 - 2023)
 - **Business Analyst** - ArchLynk, Bengaluru (2020 - 2022)
 - **Software Engineering Intern** - EOX Vantage, Bengaluru (2019 - 2020)
 

@@ -6,7 +6,7 @@
 
 
 ### About Me 🌐
-Data Scientist with 4+ years of experience in data analytics and product classification, with a strong foundation in machine learning, scalable model development, and data visualization. Proven ability to collaborate with stakeholders to drive data-informed decisions.
+Data Science professional with 4+ years of experience in data analytics, machine learning, and AI product classification. Skilled in exploratory data analysis, data visualization, feature engineering, and developing machine learning models, with a proven ability to collaborate with stakeholders to drive business decisions.
 
 ### Professional Highlights 🌟
 - **Senior Software Engineer, Data Science** - ArchLynk, Bengaluru (2025 - Present)

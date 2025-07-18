@@ -20,7 +20,6 @@ Data Science professional with 4+ years of experience in data analytics, machine
 - **Machine Learning:** Random Forest, Logistic Regression, Decision Tree, SVM, Scikit-Learn, Numpy, Pandas
 - **Statistical Testing** & **Data Visualization:** A/B Testing, Matplotlib, Seaborn, Plotly, PowerBI
 - **Version Control** & **Tools:** Git, GitHub, Microsoft Excel, Postman
-- **Cloud Storage System:** GCP
 
 ### Education 🎓
 - **Bachelor of Technology** in **Computer Science and Engineering**, **PES University**, Bengaluru (2016 - 2020)

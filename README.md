@@ -19,7 +19,7 @@ Analytics professional with 4+ years of experience in data analytics, machine le
 - **Programming:** Python, SQL
 - **Machine Learning:** Random Forest, Logistic Regression, Decision Tree, SVM, Scikit-Learn, Numpy, Pandas
 - **Statistical Testing** & **Data Visualization:** A/B Testing, Matplotlib, Seaborn, Plotly, PowerBI
-- **Version Control** & **Tools:** Git, GitHub, Microsoft Excel, Postman
+- **Version Control** & **Tools:** Git, GitHub, Microsoft Excel, Postman, Docker
 
 ### Education 🎓
 - **Bachelor of Technology** in **Computer Science and Engineering**, **PES University**, Bengaluru (2016 - 2020)

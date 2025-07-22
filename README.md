@@ -29,7 +29,7 @@
 `A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
 **Version Control & Tools:**  
-`Git` | `GitHub` | `Microsoft Excel` | `Postman`
+`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker`
 
 ---
 

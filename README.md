@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shadan Alam Kaifee — Data Scientist
 
 🔍 Passionate about turning raw data into impactful insights that drive business decisions.  
-📊 4+ years of experience in data analytics, machine learning, and AI product classification.  
+📊 4+ years of experience in data analytics and machine learning. 
 💡 Skilled in exploratory data analysis, data visualization, data storytelling, and developing machine learning models. 
 
 ---
@@ -23,11 +23,11 @@
 **Machine Learning:**  
 `Random Forest` | `Logistic Regression` | `Decision Tree` | `SVM` | `Scikit-learn` | `Pandas` | `Numpy`
 
-**Statistical Testing & Data Visualization:** 
+**Statistical Testing & Data Visualization:**  
 `A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
 **Version Control & Tools:**  
-`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker`
+`Git` | `GitHub` | `Microsoft Excel` | `Postman`
 
 ---
 

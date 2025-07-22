@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Shadan Alam Kaifee — Data Scientist
 
+
+
 🔍 Passionate about turning raw data into impactful insights that drive business decisions.  
-📊 4+ years of experience in data analytics and machine learning. 
-💡 Skilled in exploratory data analysis, data visualization, data storytelling, and developing machine learning models. 
+📊 4+ years of experience in data analytics and machine learning.   
+💡 Skilled in exploratory data analysis, data visualization, data storytelling, and developing machine learning models..
 
 ---
 

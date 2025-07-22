@@ -23,7 +23,10 @@
 `A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
 **Version Control & Tools:**  
-`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker`
+`Git` | `GitHub` | `Microsoft Excel` | `Postman`
+
+**ML Deployment:**  
+`Docker` | `FastAPI` | `GCP` 
 
 ## 📫 Let's Connect!
 

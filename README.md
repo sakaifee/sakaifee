@@ -21,16 +21,13 @@
 `Python` | `SQL` 
 
 **Machine Learning:**  
-`Random Forest` | `Logistic Regression` | `Decision Tree` | `SVM` | `Scikit-learn` | `Pandas` | `Numpy
+`Random Forest` | `Logistic Regression` | `Decision Tree` | `SVM` | `Scikit-learn` | `Pandas` | `Numpy`
 
-**Statistical Testing & Data Visualization** 
-`A/B Testing` | `Matplotlib` | `Seaborn` | `Excel` | `Google Sheets`
+**Statistical Testing & Data Visualization:** 
+`A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
-**Databases:**  
-`PostgreSQL` | `MySQL` | `BigQuery` | `Snowflake` | `Redshift`
-
-**Cloud & Workflow:**  
-`AWS` | `GCP` | `Airflow` | `dbt` | `Git` | `Jupyter Notebooks`
+**Version Control & Tools:**  
+`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker`
 
 ---
 

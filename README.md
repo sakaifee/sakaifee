@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Shadan Alam Kaifee — Data Scientist
 
-
-
 🔍 Passionate about turning raw data into impactful insights that drive business decisions.  
-📊 4+ years of experience in data analytics and machine learning.   
-💡 Skilled in exploratory data analysis, data visualization, data storytelling, and developing machine learning models..
-
----
+📊 4+ years of experience in data analytics, machine learning, and AI product classification.   
+💡 Skilled in exploratory data analysis, data visualization, data storytelling, and developing machine learning models.
 
 ## 💼 What I Do
 
@@ -14,8 +10,6 @@
 - Analyze complex datasets to discover actionable insights.
 - Perform feature engineering and build machine learning models. 
 - Communicate insights to both technical and non-technical stakeholders through reports and presentations.
-
----
 
 ## ⚙️ Tech Stack
 
@@ -31,8 +25,6 @@
 **Version Control & Tools:**  
 `Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker`
 
----
-
 ## 📫 Let's Connect!
 
 <p align="left">
@@ -40,7 +32,6 @@
 <a href="https://www.kaggle.com/kaifee/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaifee" height="30" width="40" /></a>
 </p>
 
----
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakaifee&show_icons=true&locale=en&layout=pie" alt="sakaifee" /></p>

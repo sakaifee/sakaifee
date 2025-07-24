@@ -2,8 +2,6 @@
 
 🔍 Passionate about turning raw data into impactful insights that drive business decisions.  
 📊 4+ years of experience in data analytics, machine learning, and AI product classification.   
-💡 Skilled in exploratory data analysis, data visualization, data storytelling, and machine learning model development. <br />
-🚀 Familiar with deploying machine learning models to production environments.
 
 
 ## 💼 What I Do
@@ -12,6 +10,7 @@
 - Analyze complex datasets to discover actionable insights.
 - Perform feature engineering and build machine learning models. 
 - Communicate insights to both technical and non-technical stakeholders through reports and presentations.
+- Deploy machine learning models to production environments. 
 
 ## ⚙️ Tech Stack
 

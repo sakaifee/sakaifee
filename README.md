@@ -6,10 +6,8 @@
 
 ## 💼 What I Do
 
-- Collaborate with the product architect and business stakeholders to gather data.
 - Analyze complex datasets to discover actionable insights.
 - Perform feature engineering and build machine learning models. 
-- Communicate insights to both technical and non-technical stakeholders through reports and presentations.
 - Deploy machine learning models to production environments. 
 
 ## ⚙️ Tech Stack

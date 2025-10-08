@@ -23,7 +23,7 @@
 `Git` | `GitHub` | `Microsoft Excel` | `Postman`
 
 **ML Deployment:**  
-`Docker` | `FastAPI` | `Google Cloud Platform (GCP)` | `GitHub Actions (CI/CD)`
+`Docker` | `FastAPI` | `Google Cloud Platform (GCP)`
 
 ## 📫 Let's Connect!
 

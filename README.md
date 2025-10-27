@@ -7,6 +7,7 @@
 
 - Analyze complex datasets to discover actionable insights.
 - Perform feature engineering and build machine learning models.
+- Deploy machine learning models to production using APIs and cloud platforms. 
 
 ## ⚙️ Tech Stack
 
@@ -20,7 +21,10 @@
 `A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
 **Version Control & Tools:**  
-`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker` | `Google Cloud Platform (GCP)`
+`Git` | `GitHub` | `Microsoft Excel` | `Postman`
+
+**ML Deployment:**  
+`FastAPI` | `Docker` | `Google Cloud Platform (GCP)`
 
 
 ## 📫 Let's Connect!

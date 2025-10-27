@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Shadan Alam Kaifee — Data Scientist
+# 👋 Hi, I'm Shadan Alam Kaifee
  
-📊 4+ years of experience in data analytics, machine learning, and predictive modeling.   
+📊 5+ years of experience in data analytics, machine learning, and predictive modeling.   
 
 
 ## 💼 What I Do
 
 - Analyze complex datasets to discover actionable insights.
-- Perform feature engineering, build machine learning models, and deploy them into production environments.
+- Perform feature engineering and build machine learning models.
 
 ## ⚙️ Tech Stack
 
@@ -20,10 +20,8 @@
 `A/B Testing` | `Matplotlib` | `Seaborn` | `Plotly` | `PowerBI`
 
 **Version Control & Tools:**  
-`Git` | `GitHub` | `Microsoft Excel` | `Postman`
+`Git` | `GitHub` | `Microsoft Excel` | `Postman` | `Docker` | `Google Cloud Platform (GCP)`
 
-**ML Deployment:**  
-`Docker` | `FastAPI` | `Google Cloud Platform (GCP)`
 
 ## 📫 Let's Connect!
 

@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Shadan Alam Kaifee
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-%2300C4CC.svg?&style=for-the-badge&logo=python&logoColor=white" />
-</p>
  
 📊 5+ years of experience in data analytics, machine learning, and predictive modeling.   
 

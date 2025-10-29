@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shadan Alam Kaifee
 
-🎯 **Data Scientist | Data Analyst**
+🎯 **Data Scientist**
  
 📊 5+ years of experience in data analytics, machine learning, and predictive modeling.   
 
